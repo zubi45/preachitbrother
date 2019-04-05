@@ -9,6 +9,6 @@ So sind:
 * Predigt Projekte anderer Gemeinden
  und vieles weites zu finden.
 
- Die [Ideen Übersicht](\AndachtsundPredigtIdeen.md) zeigt die gammelten Ideen welche gerne als Ideenbörse verstanden werden will. 
+ Die [Ideen Übersicht](AndachtsundPredigtIdeen.md) zeigt die gammelten Ideen welche gerne als Ideenbörse verstanden werden will. 
 
  Die Inhalte sind oft sehr unpräzise formuliert und erwarten eigene Zuspitzung vom Nutzer.

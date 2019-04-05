@@ -93,7 +93,7 @@ Dank Gott bin ich nicht besser als andere. Ich bin gar ihr Diener. Aber ich bin,
 Ist der Mensch grundsätzlich Gut oder Schlecht?
 
 Nach welchem Menschenbild gestalten wir Gesellschaft. Unter welcher Ethik setzen wir die Technik der Zukunft ein. Welche Analogien nutzen wir, um den Menschen zu beschreiben.
-[Der Mensch als Fehler](\KI-EthikDerMenschAlsFehler.md)
+[Der Mensch als Fehler](KI-EthikDerMenschAlsFehler.md)
 
 
 
