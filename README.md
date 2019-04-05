@@ -20,8 +20,8 @@ Diese [Sammlung](https://polybox.ethz.ch/index.php/s/AfaCYNT6YJl29O9?path=%2F) w
 
 Plus eine [Liste](WeblinksLederer.md) mit weiteren tollen Links.
 
-    Ich habe über die letzten Jahre wohl ein paar hundert Vorträge und Podcasts zu Glaubensthemen angehört. Jetzt habe ich eine kleine Sammlung mit meinen absoluten Favoriten gemacht:
+>Ich habe über die letzten Jahre wohl ein paar hundert Vorträge und Podcasts zu Glaubensthemen angehört. Jetzt habe ich eine kleine Sammlung mit meinen absoluten Favoriten gemacht:
 
-    Die Sammlung ist besonders empfehlenswert für Leute, die Jesus faszinierend finden, aber sich an der geistigen Enge oder der Lebensferne vieler Kirchen/Christen stören.
+>Die Sammlung ist besonders empfehlenswert für Leute, die Jesus faszinierend finden, aber sich an der geistigen Enge oder der Lebensferne vieler Kirchen/Christen stören.
 
 
