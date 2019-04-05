@@ -1,9 +1,11 @@
-#Der Mensch als Fehler
+# Der Mensch als Fehler
+
 Entwickler von künstlicher Intelligenz gehen häufig vom dümmsten anzunehmenden User aus. Dieses Menschenbild ist gefährlich.
 Sarah Spiekermann
 Wenn der Mensch schlecht ist, gibt es die Legitimation, ihn zu verwalten und vor sich selbst zu schützen: Weltbild als Machtmittel. Collage: Stefan Dimitrov
 
-##Künstliche Intelligenzen haben ein Gegenüber:
+## Künstliche Intelligenzen haben ein Gegenüber:
+
 die Menschen. Mit ihnen soll die KI kooperieren. Sie soll sie unterstützen. Dafür braucht die KI eine Vorstellung von den Menschen. Wenn man jedoch in die Informatikwelt hineinhorcht und fragt, wie dieses Menschenbild aussieht, dann steht ein Fragezeichen im Raum. Ein grundlegendes Bild vom Menschen ist nicht bekannt. Ist es vielleicht der «Dau»? Das ist die noch gängigste Bezeichnung und steht für «dümmsten anzunehmenden User», für den eine Anwendung möglichst einfach konstruiert werden muss. Oder ist es eines der ebenso unerfreulichen Synonyme, die auf Wikipedia zu finden sind, wie etwa «FSVG», «Fehler sitzt vor Gerät»?
 
 Charlie Chaplins Film «Modern Times» fasst das Menschenbild unserer ersten Maschinenparks zusammen, die damals nur in Firmen zu finden waren. Bei Chaplin war der Mensch Diener der Maschine, ein Vereinfachter und Ausgelieferter. Sind diese Bilder veraltet in der heutigen Welt, wo sich uns Technik doch als super fortschrittliche, bonbonsüsse Community-Oase voller Freiheiten darstellt?
@@ -16,13 +18,13 @@ Aber mit der «digitalen Transformation» und dem Eintritt künstlicher Intellig
 
 Schon vor 300 Jahren wurde der Mensch mit Begriffen der Technik beschrieben Im Zentrum steht die Frage der Funktionsallokation: Wie viel Kontrolle bekommt der Mensch zugewiesen und wie viel die Maschine? Geisteswissenschaftler würden von Machtverteilung sprechen.
 
-##Eine Art Technologiepaternalismus
+## Eine Art Technologiepaternalismus
 
 Gibt es einen Aus-Knopf für den Roboterpolizisten, der vielleicht schon bald an unserer Haustür klingeln könnte? Oder gibt es diesen Aus-Knopf nicht mehr, ganz im Sinne eines mehr oder weniger gut gemeinten Technologiepaternalismus? Nach welchen Regeln bestellt Alexa Vorräte für den Kühlschrank? Vollautomatisch? Mit dem Menschen als letzter Entscheidungsinstanz? Oder hält sie sich ganz zurück, uns überhaupt zu beeinflussen? Solche Fragen der Kontrollallokation zwischen Mensch und Maschine sind zentral für die langfristige Freiheit und Würde von uns Menschen. Und wie sie beantwortet werden, hängt davon ab, was für ein Menschenbild die Entwickler haben, beziehungsweise die Institutionen, die diese beauftragen.
 
 Hat man ein vertrauensvolles Menschenbild, so lässt man Homo sapiens auch die Kontrolle. Die Bedeutung der Kontrollallokation wird dabei leicht unterschätzt. Ökonomisch könnte man argumentieren, dass die unsichtbare Hand des Marktes es richten wird. Wer will schon für paternalistische Maschinen im Wohnzimmer bezahlen?
 
-##Wir sind vorhersehbar irrational
+## Wir sind vorhersehbar irrational
 
 Was ist aber, wenn ein krankhaft übergewichtiger Mensch einen staatlich geförderten Vertrag mit seiner Versicherung abgeschlossen hat, Amazons Sprachassistenten Alexa so zu nutzen, dass diese ihm nur Gemüse nach Hause liefert, wofür es Prämienrabatt gibt? Was wenn der Vertrag mit der Autoversicherung beinhaltet, dass weniger Prämie anfällt, wenn der Fahrassistent übernimmt? Solche Deals, die die Freiheit von Menschen gegen Geldvorteile eintauschen und uns in ein eigenartiges Maschinenkorsett einspannen, sind nicht so abwegig, sondern gängig werdende Praxis, wie die Harvard-Professorin Shoshana Zuboff in ihrem Buch «Das Zeitalter des Überwachungskapitalismus» darlegt.
 
@@ -38,7 +40,7 @@ Wäre es nicht weise, bei der Digitalisierung diese Erkenntnisse zu berücksicht
 
 Leider stösst ein positives Menschenbild bei Digitalisierungsfans und Zynikern auf Granit. Der Mensch, so wird oft insistiert, ist nun mal ein egoistischer, unberechenbarer, geiziger Präferenzoptimierer. Er sei vor allem ein suboptimales «System», das im Vergleich zu Computerschaltkreisen unausweichlich dümmer sein muss als die ach so «intelligenten» Maschinen.
 
-##Menschen als letzter «Bug» im System
+## Menschen als letzter «Bug» im System
 
 Eine Beobachtung der Sprache über uns Menschen unterstreicht diese Haltung. Da spricht der ehemalige Chefentwickler der Google-Autos, Chris Urmson, in einem Vortrag bei der Ted Conference vom Menschen als letzten «Bug», also Fehler, im System. Transhumanistische «Eliten» beschreiben den Menschen als eher unglücklich. Von einigen werden Menschen sogar als «Wetware» bezeichnet, also als «Nassware», weil unsere Körper aus Wasser bestehen, im Gegensatz zur «Software» der Computer.
 
@@ -48,7 +50,7 @@ Dem erstaunten Philosophen oder Technikhistoriker bleibt bei der naiven Vergleic
 
 Leider haben Bilder aber die Macht, die Realität zu bestimmen. Wenn der Mensch als suboptimales Gehirn im Tank, als schwach und dumm im Vergleich zu KIs dargestellt wird, ist es nicht verwunderlich, dass Technik dazu dienen soll, ihn oder sie entsprechend zu verbessern oder gleich zu ersetzen. Besonders hartnäckig hält sich die Vorstellung, Menschen hätten eine eingeschränkte Entscheidungsfähigkeit. So findet sich bereits auf der ersten Seite der «Ethikempfehlungen für Vertrauen stiftende Künstliche Intelligenz» eines Expertenberichts der EU-Kommission der Satz: «Es ist bekannt, dass Menschen in ihren Entscheidungen voreingenommen sind.»
 
-##«Enge» künstliche Intelligenzen sind Menschen überlegen
+## «Enge» künstliche Intelligenzen sind Menschen überlegen
 
 Stimmt das? Oder treffen wir Entscheidungen vor dem Hintergrund komplexer kulturell gewachsener Normen und Erfahrungen, die in einem ständigen Fluss sind? Was ist mit den weisen Menschen unter uns? Oder gibt es die nicht mehr?
 
