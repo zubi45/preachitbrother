@@ -89,4 +89,9 @@ Wann macht es Sinn sich einer Gemeinschaft zu _entziehen_?
 ## Identiät
 Dank Gott bin ich nicht besser als andere. Ich bin gar ihr Diener. Aber ich bin, wofür ich geschaffen wurde. ( Ein Auto stirbt auch im Wasser, da es für die Strasse gemacht wurde.)
 
+## Menschenbild (und KI)
+Ist der Mensch grundsätzlich Gut oder Schlecht?
+
+Nach welchem Menschenbild gestalten wir Gesellschaft. Unter welcher Ethik setzen wir die Technik der Zukunft ein. Welche Analogien nutzen wir, um den Menschen zu beschreiben.
+
 
