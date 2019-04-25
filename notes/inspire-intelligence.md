@@ -14,7 +14,7 @@ https://youtu.be/K7TE3oC9GpI
 ## 2) Pastor hält sich an Traum von Sohn
 Gott spricht in Sprachen, wie wir Ihn verstehen (aus unserem Kulturellen Hintergrund)
 
-## Einheit
+## 3) Einheit
 Hunger zeugt von Demut
 Einheit in Gemeinschaft:
 - in Gott: Gott sucht auch da die Gemeinschaft, wo wir nicht verstehen
@@ -22,7 +22,7 @@ Einheit in Gemeinschaft:
 
 > Haben wir die Grösse den nächsten gross zu machen, auch in Momenten, welchen wir meinen das richtigere zu machen oder das dein Moment ist.
 
-## Zeugen in deinem Leben
+## 4) Zeugen in deinem Leben
 - Einzelne Momente in deinem Leben sind Teil deiner Identität, welche Gott als Prophetien für dein Leben nutzen kann.
 - Gott Zeigt ihm odv ein Algorithmus für seine Diplomarbeit
 - Erlebnisse mit Gott sind nicht nur Erinnerungen, sie bilden dich zu dem, was du heute bist.
