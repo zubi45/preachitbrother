@@ -9,14 +9,14 @@ Redaktorin Gesellschaft
 @tagesanzeiger
 28.04.2019
 
-##Der Test, 
+## Der Test, 
 der die emotionale Intelligenz misst, beginnt mit einem vermeintlich einfach lösbaren Fallbeispiel: «Peter ist seit Wochen bestrebt, in einen anderen Bereich seines Unternehmens versetzt zu werden. Dann erfährt er, dass statt ihm eine Kollegin in genau diese Abteilung versetzt wird. Dies sehr kurzfristig, weil sie sich am derzeitigen Arbeitsplatz angeblich unwohl fühlt. Was empfindet Peter in dieser Situation am ehesten?» Ist doch klar, wie er sich fühlt, denkt man. Bestimmt ist Peter frustriert. Gekränkt. Oder enttäuscht.
 
 Aber dann stehen als Antworten nur folgende 14 Basis-Emotionen zur Auswahl: Stolz, Freude, Interesse, Erleichterung, Langeweile, Traurigkeit, Scham, Schuld, Besorgnis, Angst, Ekel, Verachtung, Gereiztheit, Wut. Und nun? Welches dieser Gefühle ist wohl richtig? Trauer vielleicht? Oder doch eher Wut? Oder Gereiztheit?
 
 Etwa so geht es die nächste Stunde weiter: 115 Fragen, ein Mix aus Kurzvideos, in denen Schauspieler Gefühle darstellen, die man richtig benennen soll, und beruflichen Situationen, auf die man angemessen reagieren muss – etwa, wenn ein Kollege mit einer wichtigen Präsentation scheinbar nicht zurechtkommt oder wenn einem der Vorgesetzte in den Rücken fällt. Viele sind leicht zu beantworten, andere scheinbar unmöglich.
 
-##Emotionale Kompetenz wichtiger als der Lebenslauf
+## Emotionale Kompetenz wichtiger als der Lebenslauf
 
 Der Emco4 ist keiner dieser Onlinetests, die man nur zum Spass ausfüllt. Forschende der Universitäten Genf und Bern haben ihn basierend auf wissenschaftlichen Erkenntnissen gemeinsam mit der Berner Personaldiagnostik-Firma Nantys entwickelt, die ihn in der Praxis einsetzt – für Versicherungen, Energiebetriebe und Fluggesellschaften ebenso wie für öffentliche Verwaltungen, die eine Stelle zu vergeben haben; meist geht es um eine Führungsposition.
 
@@ -26,7 +26,7 @@ Der hochintelligente, aber sozial inkompetente Nerd kommt in der Arbeitswelt nic
 
 Es betrifft aber nicht nur Führungspersonen, sondern alle. Die emotionale Intelligenz wird von allen Seiten als Kernkompetenz für die Berufswelt der Zukunft propagiert: von Trendforschern, Arbeitspsychologinnen, ja sogar vom Bund. Zwischen den Zeilen lesen, spüren, in welchem Moment man kompromissbereit sein, bestimmen oder schweigen soll – alles Fähigkeiten, die je länger, desto wichtiger sind, je vernetzter und digitaler die Arbeitswelt wird.
 
-##Wer einen hohen EQ hat, kann besser mit Stress umgehen.
+## Wer einen hohen EQ hat, kann besser mit Stress umgehen.
 
 Dass die emotionale Intelligenz gerade so im Hoch ist, hat sicher auch mit der Sorge vieler zu tun, die schlauen Maschinen könnten uns bald alle Jobs streitig machen. Und Gefühle sind das, was wir ihnen voraushaben.
 
@@ -34,7 +34,7 @@ Dass die emotionale Intelligenz gerade so im Hoch ist, hat sicher auch mit der S
 
 Wer einen hohen EQ hat, kann demnach besser mit Stress umgehen, hat eine gute Selbstkontrolle, verhält sich hilfsbereiter, ist als Führungsperson anerkannter – die Liste ist lang. Dabei muss es sich nicht zwingend um die offensichtliche Mutter Teresa des Betriebes handeln, die es allen recht macht. Emotional intelligent kann auch jene Person sein, die sich, wenn es die Umstände verlangen, für einmal unpopulär verhält – selbst wenn das gegen aussen so wirkt, als sei man gefühlsarm und asozial.
 
-##Im Alter verbessert sich die emotionale Intelligenz
+## Im Alter verbessert sich die emotionale Intelligenz
 
 Für knapp 80 Franken kann man sich auch privat durch den Onlinetest klicken. Nach 115 Fragen wird einem auf sechs A4-Seiten vor Augen geführt, ob man erstens die Gefühle anderer richtig erkennt, zweitens, wie gut man sich in Kollegen hineinversetzen kann, also wie empathisch man ist, drittens, ob man seine eigenen Gefühle im Griff hat, und viertens, ob man in schwierigen Situationen vorbildlich reagiert.
 
@@ -42,7 +42,7 @@ Für knapp 80 Franken kann man sich auch privat durch den Onlinetest klicken. Na
 
 Können wir die emotionale Intelligenz also trainieren? All die Selbsthilfebücher, Lehrprogramme oder Weiterbildungskurse, die derzeit angeboten werden, lassen es jedenfalls vermuten. «Die emotionale Intelligenz kann man nicht wie Vokabeln oder mathematische Formeln lernen», sagt die Arbeits- und Organisationspsychologin Andrea Chlopczik, die an der Zürcher Hochschule für Angewandte Wissenschaften dreimal jährlich einen Weiterbildungskurs zum Thema emotionale Intelligenz leitet. «Und das ist ja auch nicht nötig. Jeder gesunde Mensch verfügt über eine angeborene emotionale Intelligenz, die er automatisch einsetzt.»
 
-##Kinder, die sozial-emotional geschult werden, sind hilfsbereiter
+## Kinder, die sozial-emotional geschult werden, sind hilfsbereiter
 
 Im Kurs gehe es ganz praktisch darum, zu erkennen, wie man in bestimmten Situationen reagiere und wie man diese Emotionen kontrollieren könne, sagt Andrea Chlopczik. Warum plötzlich das Herz zu rasen beginne, wenn man eine Präsentation halten müsse, oder weswegen man bei den Kollegen immer wieder anecke. Sie verwendet dafür das Bild einer Herde Wildpferde, die einen entweder unkontrolliert hinter sich herschleifen würden oder die man selber bewusst lenke. Diesbezüglich sei unser Hirn ein Leben lang formbar. Hier setze der viertägige Weiterbildungskurs à 4000 Fr. auf Erkenntnisse der Neuro- und Motivations­psychologie. Führungskräfte, freiberufliche Coaches, Angestellte im sozialen Bereich – die Kursgruppen sind durchmischt. «Seit etwa anderthalb Jahren steigt das Interesse spürbar», sagt Andrea Chlopczik.
 
