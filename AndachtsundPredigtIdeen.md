@@ -2,7 +2,7 @@
 
 ## Emotionale Inteligenz
 Je länger je mehr ist Empahtie und gesunder Umgang mit sich und andern Wichtig. Mit Vergebung, Demut und Nächstenliebe haben wir wonderbare Werkzeuge bekommen. Lernen wir sie auch anzuwenenden?
-[Kernkompetenz EQ](EmotionaleIntelligenz.md "Zeitungsartikel")
+[Kernkompetenz EQ](Articels/EmotionaleInteligenz.md "Zeitungsartikel")
 
 ## Beziehung aus Geschichte
  Beziehung weil gemeinsame Geschichte und Sprache als Gmeinsamer Raum.  
