@@ -1,3 +1,6 @@
+>Für Benjamin Bosshard von der EKKJ __wird der Freizeitbereich immer wichtiger. «Die nötigen Kompetenzen können sich die Kinder und Jugendlichen auch ausserschulisch in der Familie, durch Jugendarbeit-Angebote oder in Vereinen aneignen.»
+
+
 # Emotionale Intelligenz
 ist Arbeitgebern oft wichtiger als IQ
 Emotional intelligente Angestellte sind im Berufsleben gefragter denn je – und ein hoher EQ wird in der digitalisierten Zukunft noch wichtiger.
