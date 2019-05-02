@@ -1,5 +1,9 @@
 # Andachts und Predigt Ideen
 
+## Emotionale Inteligenz
+Je länger je mehr ist Empahtie und gesunder Umgang mit sich und andern Wichtig. Mit Vergebung, Demut und Nächstenliebe haben wir wonderbare Werkzeuge bekommen. Lernen wir sie auch anzuwenenden?
+[Kernkompetenz EQ](EmotionaleIntelligenz.md "Zeitungsartikel")
+
 ## Beziehung aus Geschichte
  Beziehung weil gemeinsame Geschichte und Sprache als Gmeinsamer Raum.  
 [Die Liebesgeschichte in einem Whatsappchat](https://desktop.12app.ch/articles/18953808?utm_campaign=newsnet_teaser&utm_medium=email&utm_source=emarsys "Zeitugsartikel")
