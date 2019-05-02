@@ -1,4 +1,4 @@
->Für Benjamin Bosshard von der EKKJ __wird der Freizeitbereich immer wichtiger. «Die nötigen Kompetenzen können sich die Kinder und Jugendlichen auch ausserschulisch in der Familie, durch Jugendarbeit-Angebote oder in Vereinen aneignen.»
+>Für Benjamin Bosshard von der EKKJ __wird der Freizeitbereich immer wichtiger. «Die nötigen Kompetenzen können sich die Kinder und Jugendlichen auch ausserschulisch in der Familie, durch Jugendarbeit-Angebote oder in Vereinen aneignen.»__
 
 
 # Emotionale Intelligenz
