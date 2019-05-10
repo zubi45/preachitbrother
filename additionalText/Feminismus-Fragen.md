@@ -8,7 +8,7 @@
 https://blog.tagesanzeiger.ch/mamablog/index.php/76975/die-neuen-dienstmädchen/
 
 Es ist so, dass gewisse Berufe fast nur von Frauen ausgeübt werden. Haben diese Berufe, deiner Meinung nach weniger Ansehen. (Persönlich, Gesellschaftlich, Finanziell).
-Wie wichtig ist dir bei deiner Arbeit gesellschaftliches Ansehen deines Beruflichen Standes?
+Wie wichtig ist dir bei deiner Arbeit gesellschaftliches Ansehen deines beruflichen Standes?
 
 ## Frauenstreik Forderungen
  
