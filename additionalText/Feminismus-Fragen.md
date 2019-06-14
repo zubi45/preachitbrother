@@ -20,7 +20,7 @@ Wie wichtig ist dir bei deiner Arbeit gesellschaftliches Ansehen deines beruflic
 
 >Die jungen Bäuerinnen heute haben eine andere Einstellung zum Lohn. Viele von ihnen arbeiten ausserhalb des Hofs. Das hat Vorteile, weil die Bäuerinnen besser abgesichert sind. Aber dadurch geht die traditionelle Struktur des Hofs verloren.
 
-[Tagi Artikel Online: Jede-kaempft-auf-ihre-Art](https://www.tagesanzeiger.ch/schweiz/standard/Jede-kaempft-auf-ihre-Art/story/25958787?utm_source=emarsys&utm_medium=email&utm_campaign=TA19EDIT_DerMorgen_10052019&sc_src=email_2873228&&sc_lid=123952245&sc_uid=vN6Ye6Q9H7&sc_llid=46133&sc_customer=d7d96cfb-49b2-40b6-aa6c-b1d4645f025b&sc_eh=be93059c53b4c5291)
+[Tagi Artikel Online: Jede-kämpft-auf-ihre-Art](https://www.tagesanzeiger.ch/schweiz/standard/Jede-kaempft-auf-ihre-Art/story/25958787?utm_source=emarsys&utm_medium=email&utm_campaign=TA19EDIT_DerMorgen_10052019&sc_src=email_2873228&&sc_lid=123952245&sc_uid=vN6Ye6Q9H7&sc_llid=46133&sc_customer=d7d96cfb-49b2-40b6-aa6c-b1d4645f025b&sc_eh=be93059c53b4c5291)
 
 [oder als .txt File](../Articels/frauenstreikErinnerungen.md)
 
@@ -44,8 +44,32 @@ Wird von einer Frau mehr verlangt, als von einem Mann? Ich finde ja, sogar schon
 
 Was müsste sich deiner Meinung nach verändern? Glaubst du auch an Veränderungen, oder ist es auch ok, wenn es so bleibt wie es ist (Gesellschaftlich gesprochen, weil du die Veränderung so wie so mehr im persönlichen Rahmen bevorzugst)?
 
+## Weitere Fragen
+
+Schaffen wir uns mit diesen Fragen, Diskussionen und Streiks nicht viel mehr Gräben anstatt Brücken. Denn Themen wie die
+
+- Generationen Frage, 
+- Behinderung und Inklusion
+- Ausländer und Einheimische
+
+zeigen, dass je weniger Berührungspunkte wir miteinander haben um so schwieriger wird die Integration und liebe des Andern. 
+Am Schluss reklamieren wir nur noch unserer Rechte ein, tolerieren einander, können aber nichts mehr miteinander anfangen. 
+
+Die Ehe soll doch als Brückenbauer und Friedensverbindung zwischen den Geschlechter dienen. Die aktuell beobachtet Demontage kann  meiner Meinung nach jedoch ungewollte Unruhe bringen. 
+
+	- Wenn Frauen ( und Männer) für die Betreuung von Kindern einen Lohn einfordern, geht vergessen, dass Erziehung für die Gesellschaft so eminent ist, dass sie nicht (nur) in Geld bemessen werden kann.
+	- Wenn Abtreibung völlig legalisiert und ausserhalb des Gesellschaftlichen Diskurs gebracht wird ("Mein Körper gehört mir") kann vergessen gehen, dass hinter vielen Schicksalen, auch schon vor der Zeugung, weit mehr steckt als nur ein ungeborenes Kind und seine Mutter.
+	- Wenn jede geschlechtliche und sexuelle Ausrichtung anerkannt wird, übersehen wir, das so manche Seele noch viel Lauter um Anerkennung und Wertschätzung schreit und Einsamkeit in der Schweiz das grössere Gift sein kann als schräge Blicke.
+	- Wenn wir die Selbstentscheidung zur Mutterschaft und das Recht zur Lust zur Parole erklären, lass uns den viel himmelschreienderen Probleme wie Mädchenbeschneidung oder Frauenhandel, nicht nur im Ausland, eine noch lautere Stimme geben. 
+
+Muss wirklich das Patriarchat als Bastion  fallen, bevor wir uns auf Augenhöhe und doch mit unterschiedlichen Aufgaben, Verantwortungsbereichen und Wesenszügen begegnen können. 
+
+Wie fühlst du dich persönlich wertgeschätzt? vom andern Geschlecht? Von deines Gleichen? Von Menschen ganz allgemein?
+
+
+
 ps. Humor: 
-[Verlieb dich nie in das Mädel an der Theke](https://www.youtube.com/watch?v=wgfNsek8xkc)
+[Verliebe dich nie in das Mädel an der Theke](https://www.youtube.com/watch?v=wgfNsek8xkc)
 
 
 
