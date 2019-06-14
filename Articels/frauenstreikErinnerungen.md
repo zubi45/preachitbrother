@@ -1,4 +1,4 @@
- #«Ich habe auch schon Tränengasschwaden eingeatmet»
+# «Ich habe auch schon Tränengasschwaden eingeatmet»
 _Der Frauenstreik naht. Drei Politikerinnen erzählen von ihrem persönlichen Kampf für Gleichberechtigung.
 Am Schweizer Frauenstreik vom 14. Juni 1991 beteiligten sich Hunderttausende von Frauen landesweit an Streik- und Protestaktionen wie hier in Basel._
 
