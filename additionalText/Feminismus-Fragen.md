@@ -44,6 +44,9 @@ Wird von einer Frau mehr verlangt, als von einem Mann? Ich finde ja, sogar schon
 
 Was müsste sich deiner Meinung nach verändern? Glaubst du auch an Veränderungen, oder ist es auch ok, wenn es so bleibt wie es ist (Gesellschaftlich gesprochen, weil du die Veränderung so wie so mehr im persönlichen Rahmen bevorzugst)?
 
+ps. Humor: 
+[Verlieb dich nie in das Mädel an der Theke](https://www.youtube.com/watch?v=wgfNsek8xkc)
+
 
 
 
