@@ -1,4 +1,4 @@
-# Beziehung und glauben sekular
+# Beziehung, Glauben, säkular
 ## Laura Seiler: Wie finde ich den richtigen Partner
 - Beziehung ist etwas an dem wir wachsen können
 	- es gibt nicht den richtigen Partner (sei eine Fehlvorstellung von Bez.) sondern:
