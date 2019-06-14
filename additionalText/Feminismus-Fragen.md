@@ -22,7 +22,7 @@ Wie wichtig ist dir bei deiner Arbeit gesellschaftliches Ansehen deines beruflic
 
 [Tagi Artikel Online: Jede-kaempft-auf-ihre-Art](https://www.tagesanzeiger.ch/schweiz/standard/Jede-kaempft-auf-ihre-Art/story/25958787?utm_source=emarsys&utm_medium=email&utm_campaign=TA19EDIT_DerMorgen_10052019&sc_src=email_2873228&&sc_lid=123952245&sc_uid=vN6Ye6Q9H7&sc_llid=46133&sc_customer=d7d96cfb-49b2-40b6-aa6c-b1d4645f025b&sc_eh=be93059c53b4c5291)
 
-[oder als .txt File](../../../Articels/frauenstreikErinnerungen.md)
+[oder als .txt File](../Articels/frauenstreikErinnerungen.md)
 
 Macht es Sinn, der Frau, falls sie sich entscheidet zu Hause zu bleiben und  dort ihren Dienst oder gar Mitarbeit zu leisten, auch einen persönliches Salär auf ein eigenes Konto zu bezahlen?
 
