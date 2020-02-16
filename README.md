@@ -16,8 +16,10 @@ So sind:
  Die Inhalte sind oft sehr unpräzise formuliert und erwarten eigene Zuspitzung vom Nutzer.
 
 ## Spannende Podcasts und Vorträge
+
 ### Sammlung Lederer
-Diese [Sammlung](https://polybox.ethz.ch/index.php/s/AfaCYNT6YJl29O9?path=%2F) wurde von S. Leder zusammengestellt.
+
+Diese [Sammlung](www.tinyurl.com/bestoftalks) wurde von S. Leder zusammengestellt.
 
 Plus eine [Liste](Weblinks/WeblinksLederer.md) mit weiteren tollen Links.
 
