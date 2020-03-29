@@ -19,11 +19,12 @@ So sind:
 
 ### Sammlung Lederer
 
-Diese [Sammlung](www.tinyurl.com/bestoftalks) wurde von S. Leder zusammengestellt.
+Diese [Sammlung](www.tinyurl.com/bestoftalks) wurde von S. Leder zusammengestellt. (Last update Januar 2020)
 
 Plus eine [Liste](Weblinks/WeblinksLederer.md) mit weiteren tollen Links.
 
 >Ich habe über die letzten Jahre wohl ein paar hundert Vorträge und Podcasts zu Glaubensthemen angehört. Jetzt habe ich eine kleine Sammlung mit meinen absoluten Favoriten gemacht:
+
 
 >Die Sammlung ist besonders empfehlenswert für Leute, die Jesus faszinierend finden, aber sich an der geistigen Enge oder der Lebensferne vieler Kirchen/Christen stören.
 
